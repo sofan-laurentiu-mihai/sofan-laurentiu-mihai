@@ -3,7 +3,7 @@
 </p>
 
 # Who am I? ❔
-Welcome to my Github profile! I am Sofan Laurentiu-Mihai, and I am currently in my third year at Technical University of Cluj-Napoca. I am a very determined individual, who has a passion for coding and hardware. Focused, enthusiastic and impatient to discover. I aim to expand my knownledge and grow into a well-rounded engineer.
+Welcome to my Github profile! I am Sofan Laurentiu-Mihai, and I am currently in my third year at Technical University of Cluj-Napoca. I am a very determined individual, who has a passion for coding and hardware. Focused, enthusiastic and impatient to discover, I aim to expand my knownledge and grow into a well-rounded engineer.
 # My mission ♟️
 * **Engineering focus:** Diving deeper into full-stack systems and the core principles of software engineering.
 * **Algorithm thinking:** Deepening my knownledge of data structures, complex algorithms and control logic.
